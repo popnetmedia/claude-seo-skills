@@ -1,6 +1,6 @@
 ---
 name: local-eeat
-description: Use alongside non-commodity-content when writing or editing any page or post for a LOCAL service business — location pages, venue pages, "[service] in [city]" pages, local blog posts, service-area content. Adds the local-EEAT layer (named venues, geographic specificity, first-hand local proof, service-area signals) that the general non-commodity standard doesn't cover, plus a voice-capture and internal-linking workflow, and the nine-part City Page Anatomy with its programmatic gate that every city and service-area page (hand-written or generated) is built to. Skip for non-local content (general guides, national/global topics) — use non-commodity-content alone there.
+description: Use alongside non-commodity-content when writing or editing any page or post for a LOCAL service business: location pages, venue pages, "[service] in [city]" pages, local blog posts, service-area content. Adds the local-EEAT layer (named venues, geographic specificity, first-hand local proof, service-area signals) that the general non-commodity standard doesn't cover, plus a voice-capture and internal-linking workflow, and the nine-part City Page Anatomy with its programmatic gate that every city and service-area page (hand-written or generated) is built to. Skip for non-local content (general guides, national/global topics), use non-commodity-content alone there.
 ---
 
 # Local E-E-A-T Content Standard
@@ -13,17 +13,17 @@ This skill adds the local layer on top. Run BOTH for any local page or post.
 
 **Where this skill and older SEO playbooks conflict, non-commodity-content wins:**
 
-1. **Headlines — do NOT default to generic question H1s.** Older guides (and
+1. **Headlines: do NOT default to generic question H1s.** Older guides (and
    general blog-writing skills) push "phrase the H1 as the question the reader
    types" (e.g. "What Does a Wedding DJ Cost in Huntsville?"). Per the
    non-commodity standard, a standalone generic-question title is commodity.
    Favor a SPECIFIC LOCAL INSTANCE instead:
    - Commodity: "How Much Does a Wedding DJ Cost in Huntsville?"
-   - Non-commodity: "What We Charged for a 180-Guest Wedding at The Ledges Last June — and Why"
+   - Non-commodity: "What We Charged for a 180-Guest Wedding at The Ledges Last June, and Why"
    A question title is acceptable ONLY when the body delivers first-hand local proof.
 
 2. **FAQ schema is not the AI-citation lever.** Keep FAQ sections where they
-   genuinely help readers, and apply FAQPage schema for rich results — but do
+   genuinely help readers, and apply FAQPage schema for rich results, but do
    not treat FAQ blocks or "exactly 5 FAQs" as the thing that earns AI citations.
    First-hand local specificity earns citations. (Per Google's AI Optimization Guide.)
 
@@ -32,13 +32,13 @@ This skill adds the local layer on top. Run BOTH for any local page or post.
 A local page passes only if a competitor in the same city COULDN'T write it from
 public sources. The proof that they can't: you were physically there.
 
-Every local piece must contain at least one of these — original, not paraphrased:
+Every local piece must contain at least one of these, original and not paraphrased:
 
 - **A named venue or location you actually worked**, with a specific detail only
   someone on-site would know ("the ceremony lawn at Burritt on the Mountain loses
   the sun behind the tree line around 6:30 in May, so we moved the first dance up").
 - **A named local event/date** ("a 180-guest reception at The Ledges, June 2025").
-- **An original on-location photo** — the actual venue, your actual setup. No stock,
+- **An original on-location photo**: the actual venue, your actual setup. No stock,
   no venue's own marketing shots.
 - **A real local client moment or quote**, attributed and dated.
 - **A logistics/geography detail specific to the area** (load-in at Stovehouse,
@@ -54,7 +54,7 @@ Every local piece must contain at least one of these — original, not paraphras
 - Put the place in the headline when it's tied to a real instance, not as a
   bolt-on keyword. "...at The Roundhouse" not "...in Huntsville, AL | Best DJ".
 - One primary city/area per page. Don't spin near-duplicate pages per town
-  (that's scaled-content-abuse spam — see non-commodity-content). Genuinely
+  (that's scaled-content-abuse spam, see non-commodity-content). Genuinely
   distinct service-area pages need genuinely distinct first-hand content.
 
 ## City Page Anatomy (programmatic "[service] in [city]" pages, every site)
@@ -103,9 +103,9 @@ the whole set.
 
 ## Service-Area & Entity Consistency (site-level, check before publishing)
 
-- **NAP consistency** — business name, address/service area, and phone match
+- **NAP consistency**: business name, address/service area, and phone match
   across the site, footer, schema, and Google Business Profile exactly.
-- **Service-area honesty** — state the real area ("local area only" per project
+- **Service-area honesty**: state the real area ("local area only" per project
   stats). Don't imply coverage of cities you don't serve.
 - **LocalBusiness / Organization schema** carries the consistent NAP and links to
   the verified GBP and social profiles. One-time setup, reinforced per page.
@@ -114,28 +114,28 @@ the whole set.
 
 Local content must sound like the operator who was there, not generic AI.
 Before drafting, capture voice from one of:
-- **Samples** — study existing site copy / past posts: sentence rhythm, formality,
+- **Samples**: study existing site copy / past posts: sentence rhythm, formality,
   first-person "I" vs. team "we," recurring phrases, what they avoid. Name what
   you found back in one line and confirm.
-- **Quick interview** (if no samples) — at most 4 questions: how they talk to a
+- **Quick interview** (if no samples): at most 4 questions: how they talk to a
   client, first-person vs. "we," anything they never want to sound like, one
   sentence in their own voice on why the topic matters.
 
-For this project, default to the established brand voice already in the site copy
+Default to the established brand voice already in the site copy
 unless told otherwise.
 
 ## Internal Linking Into Existing Clusters (workflow step, not an afterthought)
 
-This project already has rich clusters — venue pages (`*-event-dj`), location
-pages (`/locations/[slug]`), and service pages. Every local post must connect to them.
+Most local sites already have clusters: venue or place pages, location pages
+(`/locations/[slug]`), and service pages. Every local post must connect to them.
 
 1. Before drafting, identify 3–5 existing related pages (the venue page for the
    venue named, the city's location page, the relevant service page).
 2. Weave 3–5 contextual links into the body with descriptive anchor text
-   (the venue's name, the service) — never "click here," never repeated exact-match.
+   (the venue's name, the service), never "click here," never repeated exact-match.
 3. Add a short "Related" block linking the same cluster.
 4. If a post names a venue with NO existing venue page, that gap is a creation
-   signal — flag a new venue page (per the content-flywheel rule in
+   signal: flag a new venue page (per the content-flywheel rule in
    non-commodity-content).
 
 ## Imagery (local pieces specifically)
@@ -146,7 +146,7 @@ Per non-commodity-content, every piece resolves imagery at plan time. For local:
   (`360-photo-booth-the-ledges-huntsville.jpg`, alt: "360 photo booth set up in
   the courtyard at The Ledges in Huntsville").
 - If generating images programmatically, the venue/setting must be plausible and
-  not misrepresent a real named venue you didn't shoot — if you can't show the
+  not misrepresent a real named venue you didn't shoot. If you can't show the
   real place, don't imply you did.
 
 ## Pre-Publish Local Check (in addition to the non-commodity 5-question check)
