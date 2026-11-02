@@ -56,17 +56,6 @@ deposit, the penalty for changing a booking. Then say plainly that the rate itse
 quote, and point at where. A page that says "we do not publish X, here is why, here is where to get
 it, and here is everything that does not move" beats a page that says nothing.
 
-**Derived pricing facts are the differentiator.** A range anyone can read off a listing is table
-stakes. The consequence comes from arithmetic on it:
-
-- a fee charged once per job costs a tenth as much per day on a month as on a three-day booking
-- a platform's "weekly rate" is often a fixed percentage of seven nights, set once and never
-  touched, which means it is not a negotiated discount and a real one has to be asked for
-- the cheapest headline rate plus the dearest delivery zone beats the dearest rate plus the nearest
-
-Run the arithmetic and state what the reader should now do differently. That arithmetic is what a competitor
-cannot copy by rewriting the same listing.
-
 **Pre-publish check for any pricing page:**
 
 - [ ] Both ends of the range are real figures, not "from"

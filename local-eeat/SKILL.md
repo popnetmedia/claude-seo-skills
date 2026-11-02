@@ -70,8 +70,8 @@ to bottom.
    both ends, what moves it and the date measured, read from the source at build time. Never a bare
    "starting at" figure. Where no price is published, the bullet says so and names where to get one.
 3. **Write about the actual city.** The page proves both expertise in the service and knowledge of the
-   place, using the Local Non-Commodity Bar above. It carries at least one fact computed from that
-   city's own data that no other page states.
+   place, using the Local Non-Commodity Bar above. It includes something specific to that city
+   that no other page on the site says.
 4. **Real driving directions** from a well-known landmark to where the service happens (the shop, the
    park, the venue), naming the roads and landmarks on the way. Every road and landmark is checked
    against a map, and none is invented ("near the Home Depot" only if a Home Depot is there). A
@@ -95,7 +95,7 @@ to bottom.
    with anchors mostly branded or bare URL and the exact-match phrase used sparingly.
 
 **The programmatic gate.** A generated city page publishes only when its data clears a minimum set
-by the site: real local entities, a fact computed from local data, and something no other city page on the site
+by the site: real local entities and something specific to that city that no other city page on the site
 says. A park directory, for example, might require three verified parks per city. Below the gate the URL is not
 generated: `dynamicParams = false`, left out of the sitemap, and redirected to the nearest real
 page. City-swapped near-duplicates are doorway pages under Google's spam policy. One of them risks
